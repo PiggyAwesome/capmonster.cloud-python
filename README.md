@@ -9,3 +9,4 @@ Insert your api key in the `apikey` field.
 ```py
 apikey = "ENTER YOUR KEY HERE"
 ```
+Then run the file
